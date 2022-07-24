@@ -1,7 +1,7 @@
 {
-  "name": "note-taker",
+  "name": "c",
   "version": "1.0.0",
-  "description": "",
+  "description": "Create an applicationthat can be used to write and save notes using an Express.js back end and will save and retrieve note data from a JSON file.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
